@@ -10,3 +10,5 @@ Este módulo de 6 horas foi desenhado para aprofundar seu conhecimento em Git, f
 - Aplicar boas práticas de colaboração, incluindo a resolução de conflitos.
 
 - Utilizar ferramentas avançadas do Git para otimizar o fluxo de trabalho.
+
+## Aula 1: Fundamentos do Git e GitHub
