@@ -1,0 +1,7 @@
+#É usado para especificar quais arquivos o Git deve ignorar quando subirmos mudanças para o repositório remoto.
+
+#Exemplos de arquivos que geralmente estão no .gitignore:
+
+#node_modules
+#chave_api
+#.env
